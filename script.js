@@ -492,7 +492,6 @@ const addingFriendItems = () =>{
 
 
 const addingForFriend = addingFriendItems();
-console.log(addingForFriend);
 console.log(user.friend.purchasedarray[1])
 
 
